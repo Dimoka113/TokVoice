@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-windres icon/tokvoice.rc -O coff -o icon/tokvoice.o

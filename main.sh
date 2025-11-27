@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-gcc src/main.2-7.c icons/tokvoice.o -o udp-chat/udpchat-v2.6.exe -I src/include -L src/lib -lportaudio -lwinmm -lws2_32
